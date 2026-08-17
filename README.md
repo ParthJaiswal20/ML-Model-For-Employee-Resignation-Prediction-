@@ -1,7 +1,7 @@
 Employee Resignation Prediction
 Problem Statement
 
-TO BE NOTED THIS PROJECT IS BASED ON LOGISTIC REGRESSION MODEL WITH THE IMPROVEMENT USING REGULARIZATION 
+TO BE NOTED THIS PROJECT IS BASED ON LOGISTIC REGRESSION CONCEPT & WITH THE IMPROVEMENT USING REGULARIZATION 
 
 TalentCore Pvt. Ltd. is experiencing a rising number of employee resignations, leading to increased recruitment costs, project delays, and the loss of skilled employees.
 
