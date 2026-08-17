@@ -1,8 +1,20 @@
+Employee Resignation Prediction
 Problem Statement
-	• A multinational company TalentCore Pvt. Ltd. has been experiencing a rising
-	number of employee resignations, which increases recruitment cost, project
-	delays, and loss of skilled talent.
-	• The HR department wants to build an intelligent ML system that can predict
-	whether an employee is likely to leave the company based on job satisfaction,
-	salary, age, work-life balance, training hours, bonuses, and other work-related
-factors.
+
+TalentCore Pvt. Ltd. is experiencing a rising number of employee resignations, leading to increased recruitment costs, project delays, and the loss of skilled employees.
+
+To address this challenge, the HR department aims to develop an intelligent Machine Learning system that can predict whether an employee is likely to resign based on various job-related and personal factors.
+
+Key Factors
+
+The prediction model considers factors such as:
+
+Job satisfaction
+Salary
+Age
+Work-life balance
+Training hours
+Bonuses
+Other work-related employee metrics
+
+The goal is to help the HR department identify employees who may be at risk of resignation and support data-driven employee retention strategies.
